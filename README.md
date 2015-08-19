@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Whaka-project/whakamatautau-util.png?label=ready&title=Ready)](https://waffle.io/Whaka-project/whakamatautau-util)
 # whakamatautau-util
 Set of Java utils useful for authomation testing and any everyday coding. Part of the "Whaka" project.
 
